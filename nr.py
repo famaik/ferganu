@@ -1,4 +1,4 @@
 import sys
 if __name__=='__main__':
- z=2/9;y=z*4
+ z=3/8;y=z*7
  print y
