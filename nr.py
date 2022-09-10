@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- z=358
+ z=3/8
  k=z*2
  print k
