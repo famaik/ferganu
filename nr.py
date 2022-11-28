@@ -1,5 +1,5 @@
 import sys
 if __name__=='__main__':
- z=5/6
- k=z*3
+ z=4/7
+ k=z*2
  print(k)
